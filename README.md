@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00a3df&height=300&section=header&text=Yuseon%20Seo&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00a3df&height=300&section=header&text=Yuseon%20Seo&fontSize=60)
 
 
 
