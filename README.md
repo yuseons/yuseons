@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FFFF,100:00a3df&height=300&section=header&text=Hi,%20I’m%20Yuseon%20Seo👋&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FFFF,100:00a3df&height=300&section=header&text=Hi,%20I’m%20Yuseon👋&fontSize=60)
 
 
 
