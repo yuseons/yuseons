@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yuseon%20Seo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=D4F4FA&height=300&section=header&text=Yuseon Seo&fontSize=70)
 
 <!--
 **yuseons/yuseons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
