@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FFFF,100:00a3df&height=300&section=header&text=Hi,%20I’m%20Yuseon👋&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FFFF,100:00a3df&height=300&section=header&text=Yuseon%20Seo&fontSize=60)
 
+### Hi there 👋
 
-
-## 💫ABOUT ME💫
-
-## 🔷SKILLS🔷
+## 💫SKILLS💫
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
